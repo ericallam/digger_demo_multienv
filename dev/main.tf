@@ -1,3 +1,7 @@
+resource "null_resource" "test_dev0" {
+
+}
+
 resource "null_resource" "test_dev" {
 
 }
